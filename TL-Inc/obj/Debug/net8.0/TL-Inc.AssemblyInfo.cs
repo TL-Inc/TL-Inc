@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TL-Inc")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+edc1a0071dedbdfb99cefa4055dc8699db122441")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+17b5cf560188eedc1a93ee7ae2e44c8073bca8e8")]
 [assembly: System.Reflection.AssemblyProductAttribute("TL-Inc")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TL-Inc")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
